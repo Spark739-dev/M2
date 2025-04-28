@@ -34,8 +34,9 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 
 
 ## OUTPUT:
+![6](https://github.com/user-attachments/assets/1a7a4f0a-b178-4010-bd5e-3fb091553540)
 
-![2 1](https://github.com/user-attachments/assets/1ef749d5-c4ef-4bb3-87f0-a0679d525c31)
+
 
 
 
@@ -79,7 +80,8 @@ Write a C program to print the given triangular pattern using loop.
 
 ## OUTPUT:
 
-![2 2](https://github.com/user-attachments/assets/11352c49-999b-4bb8-8ec8-6fc4ef9e20a8)
+
+![7](https://github.com/user-attachments/assets/8ea9b4dc-4b3b-4ddb-b2cb-032c113cda31)
 
 
 
@@ -127,8 +129,8 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## OUTPUT:
 
-![2 3](https://github.com/user-attachments/assets/680cdeba-194f-4529-aa46-686639056fd0)
 
+![8](https://github.com/user-attachments/assets/97cf81ed-6757-4fad-adfc-4aef4316b21a)
 
 
 
@@ -174,7 +176,8 @@ Write a c program to find the sum of odd digits using for loop
 
 ## OUTPUT:
 
-![2 4](https://github.com/user-attachments/assets/54239a91-74f3-43ce-ba2b-f85026c6e0b3)
+![9](https://github.com/user-attachments/assets/c45635ce-c438-4f8e-8c7c-9a80f0b525dd)
+
 
 
 
@@ -221,7 +224,8 @@ d.	After the loop, print the factorial value.
     }
 
 ## OUTPUT:
-![2 5](https://github.com/user-attachments/assets/ef2ed0ed-ecb8-45d8-9014-7f9862ce96e7)
+
+![10](https://github.com/user-attachments/assets/e2a98a2c-f31a-4bf6-8e40-32468f073195)
 
 
 ## RESULT:
